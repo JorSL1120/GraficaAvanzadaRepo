@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "kqZelEnSFmg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lab108-15\\Desktop\\OpenCL\\OpenCL\\OpenCL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lab108-15\\.nuget\\packages\\opencl.net\\2.2.9\\opencl.net.2.2.9.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "El paquete \"OpenCL.Net 2.2.9\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net8.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "projectPath": "C:\\Users\\Lab108-15\\Desktop\\OpenCL\\OpenCL\\OpenCL.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Lab108-15\\Desktop\\OpenCL\\OpenCL\\OpenCL.csproj",
+      "libraryId": "OpenCL.Net",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
