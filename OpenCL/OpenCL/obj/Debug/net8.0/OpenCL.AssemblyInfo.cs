@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpenCL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee95211340d06197287689df1bd5f0a92237998a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpenCL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpenCL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

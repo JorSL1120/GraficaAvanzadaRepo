@@ -43,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lab108-15\\Desktop\\OpenCL\\OpenCL\\OpenCL.csproj",
+      "projectUniqueName": "C:\\Users\\Lab108-15\\Desktop\\GraficaAvanzadaRepo\\OpenCL\\OpenCL\\OpenCL.csproj",
       "projectName": "OpenCL",
-      "projectPath": "C:\\Users\\Lab108-15\\Desktop\\OpenCL\\OpenCL\\OpenCL.csproj",
+      "projectPath": "C:\\Users\\Lab108-15\\Desktop\\GraficaAvanzadaRepo\\OpenCL\\OpenCL\\OpenCL.csproj",
       "packagesPath": "C:\\Users\\Lab108-15\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lab108-15\\Desktop\\OpenCL\\OpenCL\\obj\\",
+      "outputPath": "C:\\Users\\Lab108-15\\Desktop\\GraficaAvanzadaRepo\\OpenCL\\OpenCL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
