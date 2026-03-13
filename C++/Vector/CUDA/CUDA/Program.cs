@@ -2,7 +2,7 @@
 using ManagedCuda.VectorTypes;
 using System.Diagnostics;
 
-int N = 50_000_000;
+int N = 10_000_000;
 
 CudaContext ctx = new CudaContext();
 
@@ -33,6 +33,8 @@ kernel.BlockDimensions = 256;
 kernel.GridDimensions = (N + 255) / 256;
 
 kernel.Run(d_A.DevicePointer, d_B.DevicePointer, d_C.DevicePointer, N);
+
+ctx.Synchronize();
 
 d_C.CopyToHost(C);
 
