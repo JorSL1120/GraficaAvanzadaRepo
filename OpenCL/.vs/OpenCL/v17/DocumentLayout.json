@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lab108-15\\Desktop\\GraficaAvanzadaRepo\\OpenCL\\",
+  "WorkspaceRootPath": "C:\\Users\\Lab108-15\\Documents\\GraficaAvanzadaRepo\\OpenCL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1B2153D-B646-4BA2-B90C-C9B75DFBC825}|OpenCL\\OpenCL.csproj|c:\\users\\lab108-15\\desktop\\graficaavanzadarepo\\opencl\\opencl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1B2153D-B646-4BA2-B90C-C9B75DFBC825}|OpenCL\\OpenCL.csproj|c:\\users\\lab108-15\\documents\\graficaavanzadarepo\\opencl\\opencl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1B2153D-B646-4BA2-B90C-C9B75DFBC825}|OpenCL\\OpenCL.csproj|solutionrelative:opencl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Lab108-15\\Desktop\\GraficaAvanzadaRepo\\OpenCL\\OpenCL\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lab108-15\\Documents\\GraficaAvanzadaRepo\\OpenCL\\OpenCL\\Program.cs",
               "RelativeDocumentMoniker": "OpenCL\\Program.cs",
-              "ToolTip": "C:\\Users\\Lab108-15\\Desktop\\GraficaAvanzadaRepo\\OpenCL\\OpenCL\\Program.cs",
+              "ToolTip": "C:\\Users\\Lab108-15\\Documents\\GraficaAvanzadaRepo\\OpenCL\\OpenCL\\Program.cs",
               "RelativeToolTip": "OpenCL\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAYwC4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAAAF8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-25T02:40:33.855Z",
               "EditorCaption": ""
